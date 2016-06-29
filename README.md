@@ -1,0 +1,4 @@
+# Custom-Adapter
+
+grtrtt
+gfhf
